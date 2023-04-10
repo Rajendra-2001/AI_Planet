@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AI_Planet/static/css/main.8cea5aeb.css",
+    "main.js": "/AI_Planet/static/js/main.8bdd09c8.js",
+    "index.html": "/AI_Planet/index.html",
+    "main.8cea5aeb.css.map": "/AI_Planet/static/css/main.8cea5aeb.css.map",
+    "main.8bdd09c8.js.map": "/AI_Planet/static/js/main.8bdd09c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cea5aeb.css",
+    "static/js/main.8bdd09c8.js"
+  ]
+}
